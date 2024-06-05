@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>900</width>
+    <height>1100</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>900</width>
+    <height>1100</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>1000</width>
+    <height>1000</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Dog Tinder</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="gridLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>-1</y>
+      <width>901</width>
+      <height>1055</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="1" column="0" colspan="3">
+      <widget class="QLabel" name="label_image">
+       <property name="maximumSize">
+        <size>
+         <width>900</width>
+         <height>600</height>
+        </size>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="pixmap">
+        <pixmap>../../../Downloads/faaba8fb-a33a-431d-870c-7d49957652d3.jpg</pixmap>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="0">
+      <widget class="QPushButton" name="pushButton_save">
+       <property name="text">
+        <string>Save Image</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="2">
+      <widget class="QPushButton" name="pushButton_next">
+       <property name="text">
+        <string>Next Image</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="0" colspan="3">
+      <widget class="QLabel" name="label_title">
+       <property name="maximumSize">
+        <size>
+         <width>16777215</width>
+         <height>100</height>
+        </size>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>36</pointsize>
+        </font>
+       </property>
+       <property name="text">
+        <string>Dog Tinder</string>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QComboBox" name="comboBox">
+       <item>
+        <property name="text">
+         <string>affenpinscher</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>african</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>airedale</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>akita</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>appenzeller</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>australian</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>basenji</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>beagle</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>bluetick</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>borzoi</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>bouvier</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>boxer</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>brabancon</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>briard</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>buhund</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>bulldog</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>bullterrier</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>cattledog</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>chihuahua</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>chow</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>clumber</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>cockapoo</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>collie</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>coonhound</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>corgi</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>cotondetulear</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>dashshund</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>dalmation</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>dane</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>deerhound</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>dhole</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>dingo</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>doberman</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>elkhound</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>eskimo</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>finnish</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>frise</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>germanshepherd</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>greyhound</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>groenedael</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>havanese</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>hound</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>husky</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>keeshond</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>kelpie</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>komondor</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>kuvasz</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>labradoodle</string>
+        </property>
+       </item>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
