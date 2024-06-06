@@ -332,6 +332,251 @@
          <string>labradoodle</string>
         </property>
        </item>
+       <item>
+        <property name="text">
+         <string>labrador</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>leonberg</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>lhasa</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>malamute</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>malinois</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>maltese</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>mastiff</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>mexicanhairless</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>mix</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>mountain</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>newfoundland</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>otterhound</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>ovcharka</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>papillon</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>pekinese</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>pembroke</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>pinscher</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>pitbull</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>pointer</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>pomeranian</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>poodle</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>pug</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>puggle</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>pyrenees</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>redbone</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>retriever</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>ridgeback</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>rottweiler</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>saluki</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>samoyed</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>schipperke</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>schnauzer</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>segugio</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>setter</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>sharpei</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>sheepdog</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>shiba</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>shihtzu</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>spaniel</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>spitz</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>springer</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>stbernard</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>terrier</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>tervuren</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>vizsla</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>waterdog</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>weimaraner</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>whippet</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>wolfhound</string>
+        </property>
+       </item>
       </widget>
      </item>
     </layout>
