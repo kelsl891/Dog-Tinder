@@ -26,7 +26,7 @@ class Ui_MainWindow(object):
         self.label_image = QtWidgets.QLabel(parent=self.gridLayoutWidget)
         self.label_image.setMaximumSize(QtCore.QSize(900, 600))
         self.label_image.setText("")
-        self.label_image.setPixmap(QtGui.QPixmap("../../../Downloads/faaba8fb-a33a-431d-870c-7d49957652d3.jpg"))
+        self.label_image.setPixmap(QtGui.QPixmap("image.jpg"))
         self.label_image.setAlignment(QtCore.Qt.AlignmentFlag.AlignCenter)
         self.label_image.setObjectName("label_image")
         self.gridLayout.addWidget(self.label_image, 1, 0, 1, 3)
